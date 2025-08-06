@@ -8,4 +8,4 @@ React.js, Python, HTML/CSS/JS, FastAPI, AssemblyAI
 
 # Screenshots
 
-![Home Page of the App]()
+![Home Page of the App](https://github.com/SemaKalawi/transcriptionapp/blob/main/Transcription%20App.png)
